@@ -1,0 +1,12 @@
+{
+	"latest": {
+		"windows": "1.1.2"
+	},
+	"releases": {
+		"0.1.2": {
+			"files": {
+				"windows": ""
+			}
+		}
+	}
+}
