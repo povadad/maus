@@ -5,7 +5,7 @@
 	"releases": {
 		"0.1.2": {
 			"files": {
-				"windows": ""
+				"windows": "https://github.com/povadad/maus/releases/download/v1.1.2/MAUS.exe"
 			}
 		}
 	}
