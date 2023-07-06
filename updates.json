@@ -3,7 +3,7 @@
 		"windows": "1.1.2"
 	},
 	"releases": {
-		"0.1.2": {
+		"1.1.2": {
 			"files": {
 				"windows": "https://github.com/povadad/maus/releases/download/v1.1.2/MAUS.exe"
 			}
