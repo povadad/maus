@@ -1,11 +1,13 @@
 {
 	"latest": {
-		"windows_32": "1.1.3"
+		"windows_32": "1.1.3",
+		"windows": "1.1.3"
 	},
 	"releases": {
 		"1.1.3": {
 			"files": {
-				"windows_32": "https://github.com/povadad/maus/releases/download/v1.1.3/Multisphere-v1.1.3.exe"
+				"windows_32": "https://github.com/povadad/maus/releases/download/v1.1.3/Multisphere-v1.1.3.exe",
+				"windows": "https://github.com/povadad/maus/releases/download/v1.1.3/Multisphere-v1.1.3.exe"
 			}
 		}
 	}
